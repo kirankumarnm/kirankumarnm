@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kiran Kumar N M  
 
-💼 **Aspiring Azure Data Engineer** with 1.10 years of experience as an **SQL Developer**.  
+💼 **Aspiring Azure Data Engineer** with almost 2 years of experience as an **SQL Developer**.  
 🔹 Hands-on experience in **Azure Data Factory (ADF)**, **Azure Databricks**, **ADLS Gen2**, **PySpark**, **SQL**, and **Python (Basics)**.  
 🔹 Previously focused on **SSRS Reporting** and data integration solutions.  
 🌱 Currently learning advanced **Azure Data Engineering** techniques and modern data architecture practices.  
